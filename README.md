@@ -1,10 +1,6 @@
-## Hellow
+# ¡Hola! Soy Abel (Dyplox) 👋
 
 <!--
-**Dyplox/Dyplox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,15 +11,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Dyplox/Dyplox/blob/main/Abel Banner.png" width="700">
-
+<img src="https://github.com/Dyplox/Dyplox/blob/main/Abel Banner.png" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel_Gutierrez_Arias-0077B5?style=social&logo=LinkedIn&logoColor=0077B5&link=https://www.linkedin.com/in/abelguar)](https://www.linkedin.com/in/abelguar)
 [![Outlook](https://img.shields.io/badge/abel.gutierrezarias-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abel.gutierrezarias@outlook.com)](mailto:abel.gutierrezarias@outlook.com)
 [![Github](https://img.shields.io/github/followers/Dyplox?label=Follow&style=social)](https://github.com/Dyplox)
 
-### Github stats
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dyplox&theme=dark)](https://git.io/streak-stats)
+### 👨‍💻 Sobre mí
+Soy un apasionado de la **Inteligencia Artificial** y la **Automatización**. Me enfoco en crear soluciones eficientes utilizando arquitecturas **RAG** y optimizando procesos de desarrollo.
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dyplox&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=dark&langs_count=10)
+- 🔭 Actualmente trabajando en: Implementaciones de RAG (Retrieval-Augmented Generation) y optimización de flujos de IA.
+- 🌱 Aprendiendo: Nuevas arquitecturas de LLMs y técnicas avanzadas de automatización.
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dyplox&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dyplox&layout=compact&theme=dark" alt="Lenguajes más usados" />
+</p>
+
+
+### 🛠️ Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
