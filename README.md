@@ -1,23 +1,23 @@
-# ¡Hola! Soy Abel (Dyplox) 👋
+# ¡Hola! Soy @AbelGuAr (Dyplox) 👋
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
 -->
 
-<img src="https://github.com/Dyplox/Dyplox/blob/main/Abel Banner.png" width="100%">
+<img src="https://github.com/Dyplox/Dyplox/blob/main/Abel Banner.png" width="50%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel_Gutierrez_Arias-0077B5?style=social&logo=LinkedIn&logoColor=0077B5&link=https://www.linkedin.com/in/abelguar)](https://www.linkedin.com/in/abelguar)
 [![Outlook](https://img.shields.io/badge/abel.gutierrezarias-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abel.gutierrezarias@outlook.com)](mailto:abel.gutierrezarias@outlook.com)
 [![Github](https://img.shields.io/github/followers/Dyplox?label=Follow&style=social)](https://github.com/Dyplox)
 
 ---
+
+### 🛠️ Tecnologías y Herramientas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 👨‍💻 Sobre mí
 Soy un apasionado de la **Inteligencia Artificial** y la **Automatización**. Me enfoco en crear soluciones eficientes utilizando arquitecturas **RAG** y optimizando procesos de desarrollo.
@@ -31,11 +31,3 @@ Soy un apasionado de la **Inteligencia Artificial** y la **Automatización**. Me
   <img src="https://streak-stats.demolab.com/?user=Dyplox&theme=dark" alt="Lenguajes más usados" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dyplox&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
-
-
-### 🛠️ Tecnologías y Herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
