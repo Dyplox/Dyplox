@@ -12,15 +12,15 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías, Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnumetadatarepository&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![AI](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 👨‍💻 Sobre mí
 Soy un apasionado de la **Inteligencia Artificial** y la **Automatización**. Me enfoco en crear soluciones eficientes utilizando arquitecturas **RAG** y optimizando procesos de desarrollo.
