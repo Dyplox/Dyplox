@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel_Gutierrez_Arias-0077B5?style=social&logo=LinkedIn&logoColor=0077B5&link=https://www.linkedin.com/in/abelguar)](https://www.linkedin.com/in/abelguar)
+[![Outlook](https://img.shields.io/badge/abel.gutierrezarias-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abel.gutierrezarias@outlook.com)](mailto:abel.gutierrezarias@outlook.com)
+[![Github](https://img.shields.io/github/followers/Dyplox?label=Follow&style=social)](https://github.com/Dyplox)
