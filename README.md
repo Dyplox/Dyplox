@@ -19,11 +19,12 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **SDET** (Software Development Engineer in Test): diseño y mantengo frameworks de automatización para que los equipos entreguen software con confianza y sin sorpresas en producción. Desde 2023 trabajo como QA Automation en **Ionix Latam**.
+Soy **SDET** (Software Development Engineer in Test): diseño y mantengo frameworks de automatización **web, mobile y API** para que los equipos entreguen software con confianza y sin sorpresas en producción. Desde 2023 trabajo como QA Automation en **Ionix Latam**.
 
 Me interesa especialmente la intersección entre **calidad de software e Inteligencia Artificial**: cómo probar sistemas basados en LLMs y arquitecturas **RAG**, y cómo usar IA para hacer el testing más rápido e inteligente.
 
 - 🧪 **Automatización** de pruebas UI, API y Mobile, integrada en pipelines de CI/CD
+- 📱 **Mobile**: pruebas nativas en Android e iOS con Appium
 - ⚡ **Rendimiento**: pruebas de carga y estrés con métricas observables
 - 🤖 **QA para IA**: evaluación de respuestas, regresión y calidad en sistemas RAG
 - 🌱 **Aprendiendo ahora**: Playwright + TypeScript, k6 + Grafana y evaluación de LLMs con pytest
@@ -32,6 +33,7 @@ Me interesa especialmente la intersección entre **calidad de software e Intelig
 
 | Proyecto | Qué demuestra | Stack | Estado |
 |---|---|---|---|
+| **[Auto Android & iOS](https://github.com/Dyplox/Auto_Android_iOS)** | Automatización mobile multiplataforma: un mismo framework para Android e iOS | Appium | ✅ Publicado |
 | **QA para IA** | Suite de pruebas para un sistema RAG/LLM: evaluación de respuestas, regresión y métricas de calidad | Python · pytest | 🚧 En construcción |
 | **Framework web E2E** | Framework de automatización web con page objects, pruebas de accesibilidad y reportes en CI | Playwright · TypeScript | 🚧 En construcción |
 | **[Pruebas de rendimiento](https://github.com/Dyplox/Ejercicio-k6)** | Escenarios de carga y estrés con dashboards de resultados | k6 · Grafana | 🔧 Mejorando |
@@ -50,6 +52,12 @@ Me interesa especialmente la intersección entre **calidad de software e Intelig
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBsYXl3cmlnaHQ8L3RpdGxlPjxwYXRoIGQ9Ik0yMy45OTYgNy40NjJjLS4wNTYuODM3LS4yNTcgMi4xMzUtLjcxNiAzLjg1LS45OTUgMy43MTUtNC4yNyAxMC44NzQtMTAuNDIgOS4yMjctNi4xNS0xLjY1LTUuNDA3LTkuNDg3LTQuNDEyLTEzLjIwMS40Ni0xLjcxNi45MzQtMi45NCAxLjMwNS0zLjY5NC40Mi0uODUzLjg0Ni0uMjg5IDEuODE1LjUyMy42ODQuNTczIDIuNDEgMS43OTEgNS4wMTEgMi40ODggMi42MDEuNjk3IDQuNzA2LjUwNiA1LjU4My4zNTIgMS4yNDUtLjIxOSAxLjg5Ny0uNDk0IDEuODM0LjQ1NVptLTkuODA3IDMuODYzcy0uMTI3LTEuODE5LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY3LTIuNjEzIDEuMDQtMi42MTMgMS4wNFptNC4wNTggNC41MzktNy43NjktMi4xNzJzLjQ0NiAyLjMwNiAzLjMzOCAzLjE1M2MyLjg2Mi44MzYgNC40My0uOTggNC40My0uOTgxWm0yLjcwMS0yLjUxcy0uMTMtMS44MTgtMS43NzMtMi4yODZjLTEuNjQ0LS40NjktMi42MTIgMS4wMzgtMi42MTIgMS4wMzhaTTguNTcgMTguMjNjLTQuNzQ5IDEuMjc5LTcuMjYxLTQuMjI0LTguMDIxLTcuMDhDLjE5NyA5LjgzMS4wNDQgOC44MzIuMDAzIDguMTg4Yy0uMDQ3LS43My40NTUtLjUyIDEuNDE1LS4zNTQuNjc3LjExOCAyLjMuMjYxIDQuMzA4LS4yOGExMS4yOCAxMS4yOCAwIDAgMCAyLjQxLS45NTZjLS4wNTguMTk3LS4xMTQuNC0uMTcuNjEtLjQzMyAxLjYxOC0uODI3IDQuMDU1LS42MzIgNi40MjYtMS45NzYuNzMyLTIuMjY3IDIuNDIzLTIuMjY3IDIuNDIzbDIuNTI0LS43MTVjLjIyNyAxLjAwMi42IDEuOTg3IDEuMTUgMi44MzhhNS45MTQgNS45MTQgMCAwIDEtLjE3MS4wNDlabS00LjE4OC02LjI5OGMxLjI2NS0uMzMzIDEuMzYzLTEuNjMxIDEuMzYzLTEuNjMxbC0zLjM3NC44ODhzLjc0NSAxLjA3NiAyLjAxLjc0M1oiLz48L3N2Zz4%3D" alt="Playwright">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6">
+
+**Mobile**
+<br>
+<img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
 
 **Infraestructura, datos y observabilidad**
 <br>
