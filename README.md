@@ -27,7 +27,7 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 - 📱 **Mobile**: pruebas nativas en Android e iOS con Appium y XCUITest
 - ⚡ **Rendimiento**: pruebas de carga y estrés con métricas observables
 - 🤖 **QA para IA**: evaluación de respuestas, regresión y calidad en sistemas RAG
-- 🌱 **Construyendo ahora**: repos públicos de QA con IA (pytest), web E2E con Playwright + TypeScript y rendimiento con k6 + Grafana
+- 🌱 **Construyendo ahora**: repos públicos de QA con IA (pytest) y web E2E con Playwright + TypeScript
 
 ### 📈 Impacto
 
@@ -48,9 +48,9 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 |---|---|---|---|
 | **[Auto Android & iOS](https://github.com/Dyplox/Auto_Android_iOS)** | Automatización mobile multiplataforma: un mismo framework para Android e iOS | Appium | ✅ Publicado |
 | **[RESTFUL Booker API](https://github.com/Dyplox/RESTFUL_BOOKERING)** | Pruebas de API REST con patrón Screenplay y BDD, CI con Docker, cobertura con JaCoCo y análisis en SonarQube | Java · Serenity BDD · Cucumber | ✅ Publicado |
+| **[k6 Performance Lab](https://github.com/Dyplox/k6-performance-lab)** | Pruebas de smoke, carga, estrés, picos y soak sobre una API de reservas, con SLOs como código que hacen fallar el pipeline, comparación contra baselines y reporte HTML en GitHub Pages | k6 · TypeScript · Prometheus · Grafana · GitHub Actions | ✅ Publicado |
 | **QA para IA** | Suite de pruebas para un sistema RAG/LLM: evaluación de respuestas, regresión y métricas de calidad | Python · pytest | 🚧 En construcción |
 | **Framework web E2E** | Framework de automatización web con page objects, pruebas de accesibilidad y reportes en CI | Playwright · TypeScript | 🚧 En construcción |
-| **[Pruebas de rendimiento](https://github.com/Dyplox/Ejercicio-k6)** | Escenarios de carga y estrés con dashboards de resultados | k6 · Grafana | 🔧 Mejorando |
 
 ## 🛠️ Stack
 
