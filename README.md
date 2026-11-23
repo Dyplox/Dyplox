@@ -27,7 +27,7 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 - 📱 **Mobile**: pruebas nativas en Android e iOS con Appium y XCUITest
 - ⚡ **Rendimiento**: pruebas de carga y estrés con métricas observables
 - 🤖 **QA para IA**: evaluación de respuestas, regresión y calidad en sistemas RAG
-- 🌱 **Construyendo ahora**: repos públicos de QA con IA (pytest) y web E2E con Playwright + TypeScript
+- 🌱 **Construyendo ahora**: un repo público de QA con IA en Python + pytest
 
 ### 📈 Impacto
 
@@ -49,8 +49,8 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 | **[Auto Android & iOS](https://github.com/Dyplox/Auto_Android_iOS)** | Automatización mobile multiplataforma: un mismo framework para Android e iOS | Appium | ✅ Publicado |
 | **[RESTFUL Booker API](https://github.com/Dyplox/RESTFUL_BOOKERING)** | Pruebas de API REST con patrón Screenplay y BDD, CI con Docker, cobertura con JaCoCo y análisis en SonarQube | Java · Serenity BDD · Cucumber | ✅ Publicado |
 | **[k6 Performance Lab](https://github.com/Dyplox/k6-performance-lab)** | Pruebas de smoke, carga, estrés, picos y soak sobre una API de reservas, con SLOs como código que hacen fallar el pipeline, comparación contra baselines y reporte HTML en GitHub Pages | k6 · TypeScript · Prometheus · Grafana · GitHub Actions | ✅ Publicado |
+| **[Playwright TS Framework](https://github.com/Dyplox/playwright-ts-framework)** | Framework E2E sobre un e-commerce (Toolshop) con pruebas de smoke, E2E, mocks de red, contratos de API, accesibilidad WCAG 2.1 AA, visuales y Lighthouse; Chromium, Firefox y WebKit; CI con 4 shards, detección de flaky tests y reporte en GitHub Pages | Playwright · TypeScript · axe · Allure · GitHub Actions | ✅ Publicado |
 | **QA para IA** | Suite de pruebas para un sistema RAG/LLM: evaluación de respuestas, regresión y métricas de calidad | Python · pytest | 🚧 En construcción |
-| **Framework web E2E** | Framework de automatización web con page objects, pruebas de accesibilidad y reportes en CI | Playwright · TypeScript | 🚧 En construcción |
 
 ## 🛠️ Stack
 
