@@ -114,7 +114,7 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Dyplox&theme=transparent&hide_border=true" alt="Racha de contribuciones de Dyplox" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dyplox&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados por Dyplox" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyplox&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Lenguajes más usados por Dyplox" height="165">
 </p>
 
 ---
