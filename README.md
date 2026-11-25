@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **SDET** con más de 7 años en QA Automation, asegurando la calidad de productos en **banca tradicional, Fintech, salud y transporte**. Diseño y construyo arquitecturas de automatización **web, mobile y API** que reducen los tiempos de entrega, y participo en revisión de código, metodologías y arquitectura de pruebas. Trabajo en **Ionix Latam** desde 2023.
+Soy **SDET** con más de 8 años en QA Automation, asegurando la calidad de productos en **banca tradicional, Fintech, salud y transporte**. Diseño y construyo arquitecturas de automatización **web, mobile y API** que reducen los tiempos de entrega, y participo en revisión de código, metodologías y arquitectura de pruebas. Trabajo en **Ionix Latam** desde 2023.
 
 Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engineering en todo el ciclo de vida de pruebas, y me interesa cómo probar sistemas basados en LLMs y arquitecturas **RAG**.
 
