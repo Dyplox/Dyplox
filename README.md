@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>SDET · Senior QA Automation Engineer</b> en Ionix Latam<br>
-  Ingeniero de Sistemas · +7 años en QA · Antioquia, Colombia 🇨🇴
+  Ingeniero de Sistemas · +8 años en QA · Antioquia, Colombia 🇨🇴
 </p>
 
 <p align="center">
