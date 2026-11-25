@@ -44,13 +44,54 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Qué demuestra | Stack | Estado |
-|---|---|---|---|
-| **[Auto Android & iOS](https://github.com/Dyplox/Auto_Android_iOS)** | Automatización mobile multiplataforma: un mismo framework para Android e iOS | Appium | ✅ Publicado |
-| **[RESTFUL Booker API](https://github.com/Dyplox/RESTFUL_BOOKERING)** | Pruebas de API REST con patrón Screenplay y BDD, CI con Docker, cobertura con JaCoCo y análisis en SonarQube | Java · Serenity BDD · Cucumber | ✅ Publicado |
-| **[k6 Performance Lab](https://github.com/Dyplox/k6-performance-lab)** | Pruebas de smoke, carga, estrés, picos y soak sobre una API de reservas, con SLOs como código que hacen fallar el pipeline, comparación contra baselines y reporte HTML en GitHub Pages | k6 · TypeScript · Prometheus · Grafana · GitHub Actions | ✅ Publicado |
-| **[Playwright TS Framework](https://github.com/Dyplox/playwright-ts-framework)** | Framework E2E sobre un e-commerce (Toolshop) con pruebas de smoke, E2E, mocks de red, contratos de API, accesibilidad WCAG 2.1 AA, visuales y Lighthouse; Chromium, Firefox y WebKit; CI con 4 shards, detección de flaky tests y reporte en GitHub Pages | Playwright · TypeScript · axe · Allure · GitHub Actions | ✅ Publicado |
-| **QA para IA** | Suite de pruebas para un sistema RAG/LLM: evaluación de respuestas, regresión y métricas de calidad | Python · pytest | 🚧 En construcción |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dyplox/Auto_Android_iOS">
+        <img src="https://opengraph.githubassets.com/1/Dyplox/Auto_Android_iOS" alt="Auto Android & iOS" width="100%">
+      </a>
+      <h3><a href="https://github.com/Dyplox/Auto_Android_iOS">📱 Auto Android &amp; iOS</a></h3>
+      <p>Un mismo framework y las mismas pruebas para Android e iOS: solo cambian los locators.</p>
+      <img src="https://img.shields.io/badge/Appium-21262D?style=flat-square&logo=appium&logoColor=EE376D" alt="Appium">
+      <img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+      <img src="https://img.shields.io/badge/BrowserStack-21262D?style=flat-square&logo=browserstack&logoColor=F18A22" alt="BrowserStack">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dyplox/RESTFUL_BOOKERING">
+        <img src="https://opengraph.githubassets.com/1/Dyplox/RESTFUL_BOOKERING" alt="RESTFUL Booker API" width="100%">
+      </a>
+      <h3><a href="https://github.com/Dyplox/RESTFUL_BOOKERING">🔌 RESTFUL Booker API</a></h3>
+      <p>Pruebas de API con Screenplay y BDD, CI con Docker, cobertura con JaCoCo y quality gate en SonarQube.</p>
+      <img src="https://img.shields.io/badge/Serenity_BDD-21262D?style=flat-square" alt="Serenity BDD">
+      <img src="https://img.shields.io/badge/REST_Assured-21262D?style=flat-square" alt="REST Assured">
+      <img src="https://img.shields.io/badge/Cucumber-21262D?style=flat-square&logo=cucumber&logoColor=23D96C" alt="Cucumber">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dyplox/playwright-ts-framework">
+        <img src="https://opengraph.githubassets.com/1/Dyplox/playwright-ts-framework" alt="Playwright TS Framework" width="100%">
+      </a>
+      <h3><a href="https://github.com/Dyplox/playwright-ts-framework">🎭 Playwright TS Framework</a></h3>
+      <p>E2E en 3 navegadores con contratos de API, accesibilidad WCAG 2.1 AA, pruebas visuales y CI con 4 shards.</p>
+      <img src="https://img.shields.io/badge/Playwright-21262D?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzJFQUQzMyI%2BPHBhdGggZD0iTTIzLjkgNy40Yy0uMC44LS4yIDIuMS0uNyAzLjgtLjkgMy43LTQuMiAxMC44LTEwLjQgOS4yLTYuMS0xLjYtNS40LTkuNC00LjQtMTMuMi40LTEuNy45LTIuOSAxLjMtMy42LjQtLjguOC0uMiAxLjguNS42LjUgMi40IDEuNyA1LjAgMi40IDIuNi42IDQuNy41IDUuNS4zIDEuMi0uMiAxLjgtLjQgMS44LjRabS05LjggMy44cy0uMS0xLjgtMS43LTIuMmMtMS42LS40LTIuNiAxLjAtMi42IDEuMFptNC4wIDQuNS03LjctMi4xcy40IDIuMyAzLjMgMy4xYzIuOC44IDQuNC0uOSA0LjQtLjlabTIuNy0yLjVzLS4xLTEuOC0xLjctMi4yYy0xLjYtLjQtMi42IDEuMC0yLjYgMS4wWk04LjUgMTguMmMtNC43IDEuMi03LjItNC4yLTguMC03LjBDLjEgOS44LjAgOC44LjAgOC4xYy0uMC0uNy40LS41IDEuNC0uMy42LjEgMi4zLjIgNC4zLS4yYTExLjIgMTEuMiAwIDAgMCAyLjQtLjljLS4wLjEtLjEuNC0uMS42LS40IDEuNi0uOCA0LjAtLjYgNi40LTEuOS43LTIuMiAyLjQtMi4yIDIuNGwyLjUtLjdjLjIgMS4wLjYgMS45IDEuMSAyLjhhNS45IDUuOSAwIDAgMS0uMS4wWm0tNC4xLTYuMmMxLjItLjMgMS4zLTEuNiAxLjMtMS42bC0zLjMuOHMuNyAxLjAgMi4wLjdaIi8%2BPC9zdmc%2B" alt="Playwright">
+      <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+      <img src="https://img.shields.io/badge/axe--core-21262D?style=flat-square" alt="axe-core">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dyplox/k6-performance-lab">
+        <img src="https://opengraph.githubassets.com/1/Dyplox/k6-performance-lab" alt="k6 Performance Lab" width="100%">
+      </a>
+      <h3><a href="https://github.com/Dyplox/k6-performance-lab">⚡ k6 Performance Lab</a></h3>
+      <p>Smoke, carga, estrés, picos y soak, con SLOs como código que hacen fallar el pipeline.</p>
+      <img src="https://img.shields.io/badge/k6-21262D?style=flat-square&logo=k6&logoColor=7D64FF" alt="k6">
+      <img src="https://img.shields.io/badge/Grafana-21262D?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana">
+      <img src="https://img.shields.io/badge/Prometheus-21262D?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus">
+    </td>
+  </tr>
+</table>
+
+> 🚧 **En construcción:** QA para IA, una suite en Python y pytest para evaluar un sistema RAG/LLM (calidad de respuestas, regresión y métricas).
 
 ## 🛠️ Stack
 
