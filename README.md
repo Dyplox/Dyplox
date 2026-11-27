@@ -83,7 +83,7 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
         <img src="https://opengraph.githubassets.com/1/Dyplox/k6-performance-lab" alt="k6 Performance Lab" width="100%">
       </a>
       <h3><a href="https://github.com/Dyplox/k6-performance-lab">⚡ k6 Performance Lab</a></h3>
-      <p>Smoke, carga, estrés, picos y soak, con SLOs como código que hacen fallar el pipeline.</p>
+      <p>Smoke, carga, estrés, picos y soak, con SLOs como código que hacen fallar el pipeline. <a href="https://dyplox.github.io/k6-performance-lab/">📊 Ver reporte en vivo</a></p>
       <img src="https://img.shields.io/badge/k6-21262D?style=flat-square&logo=k6&logoColor=7D64FF" alt="k6">
       <img src="https://img.shields.io/badge/Grafana-21262D?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana">
       <img src="https://img.shields.io/badge/Prometheus-21262D?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus">
