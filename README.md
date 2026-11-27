@@ -93,6 +93,15 @@ Soy pionero en el enfoque de **QA impulsado por IA**: integro LLMs y Prompt Engi
 
 > 🚧 **En construcción:** QA para IA, una suite en Python y pytest para evaluar un sistema RAG/LLM (calidad de respuestas, regresión y métricas).
 
+## 🌍 Open source
+
+Contribuyo a **[Practice Software Testing (Toolshop)](https://github.com/testsmith-io/practice-software-testing)**, la app de e-commerce (Angular + Laravel) que la comunidad QA usa para practicar automatización, y sobre la que corre mi [Playwright TS Framework](https://github.com/Dyplox/playwright-ts-framework).
+
+| PR | Aporte | Estado |
+|---|---|---|
+| [#859](https://github.com/testsmith-io/practice-software-testing/pull/859) | Documenta las respuestas de error de login y registro en la especificación OpenAPI | <img src="https://img.shields.io/github/issues/detail/state/testsmith-io/practice-software-testing/859?style=flat-square&label=" alt="Estado del PR 859"> |
+| [#860](https://github.com/testsmith-io/practice-software-testing/pull/860) | El mismo aporte para la variante `sprint5-performance` | <img src="https://img.shields.io/github/issues/detail/state/testsmith-io/practice-software-testing/860?style=flat-square&label=" alt="Estado del PR 860"> |
+
 ## 🛠️ Stack
 
 | Categoría | Herramientas |
